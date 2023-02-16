@@ -3,6 +3,10 @@
   "displayName": "jetdirect-proxy",
   "description": "Proxy jetdirect from codespaces to you local environment",
   "version": "0.0.1",
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/froggr/jetdirect-proxy"
+  },
   "engines": {
     "vscode": "^1.75.0"
   },
